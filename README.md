@@ -18,7 +18,7 @@ Make sure to check out my portfolio [here](https://www.myselfraj.com/)! It's a c
 Want to chat about coding, exchange cat memes, or collaborate on a project? Reach out to me on:
 
 - **LinkedIn**: [Rajneesh ](https://www.linkedin.com/in/myselfraj/)
-- **Email**:contact@myselfraj.com
+- **Email**:rajneesh@myselfraj.com
 - **Lets Chat Now**: [Meet ](https://calendly.com/myselfraj/30min?)
 - **Browser my Gists**: [Gists ](https://gist.github.com/chapeee)
 
