@@ -1,6 +1,6 @@
 ## Rajneesh
 
-Full-stack developer from Lucknow, India. I build web products end-to-end with Next.js, Laravel, and Node.js — client work by day, indie products on the side.
+Full-stack developer from India. I build web products end-to-end with Next.js, Laravel, and Node.js — client work by day, indie products on the side.
 
 ### Currently building
 
