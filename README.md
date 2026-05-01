@@ -4,7 +4,7 @@ Full-stack developer from India. I build web products end-to-end with Next.js, L
 
 ### Currently building
 
-**[gitsmith](https://github.com/chapeee/gitsmith)** — A Node.js toolkit for GitHub operations. Published on npm with provenance and supply-chain verification. Built to make scripted Git/GitHub workflows feel less like duct tape.
+**[gitsmith](https://github.com/chapeee/gitsmith)** —  AI powered configurable conventional commits CLI for teams and solo developers.
 
 ### Stack
 
