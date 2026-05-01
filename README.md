@@ -1,6 +1,6 @@
 ## Rajneesh
 
-Full-stack developer from India. I build web products end-to-end with Next.js, Laravel, and Node.js — client work by day, indie products on the side.
+Full-stack developer from India. I just don’t write code.I build solutions that scales with Next.js, Laravel, Python, and Node.js — client work by day, indie products on the side.
 
 ### Currently building
 
@@ -8,7 +8,7 @@ Full-stack developer from India. I build web products end-to-end with Next.js, L
 
 ### Stack
 
-Next.js · Laravel · Node.js · React · Python · PostgreSQL · MySQL · Redis · Docker
+Next.js · Laravel · Node.js · React · Python  · Redis · Docker · JavasSript · TypeScript  · TW · PostgreSQL · MySQL
 
 ### Find me
 
