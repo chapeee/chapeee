@@ -7,8 +7,7 @@ Full-stack developer from India. I just don’t write code.I build solutions tha
 **[gitsmith](https://github.com/chapeee/gitsmith)** —  AI powered configurable conventional commits CLI for teams and solo developers.
 
 ### Stack
-
-Next.js · Laravel · Node.js · React · Python  · Redis · Docker · JavasSript · TypeScript  · TW · PostgreSQL · MySQL
+RAG · Vectorization · AI Automation · Next.js · Laravel · Node.js · React · Python  · Redis · Docker · JavasSript · TypeScript  · TW · PostgreSQL · MySQL
 
 ### Find me
 
